@@ -1,0 +1,8 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+/* Define custom background and text colors for the toolbar */
+mat-toolbar {
+  --mat-toolbar-container-background-color: #4CAF50; /* Green background */
+  --mat-toolbar-container-text-color: white; /* White text */
+}
